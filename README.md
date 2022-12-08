@@ -1,0 +1,35 @@
+# RNTest
+
+# This Project is based on Listing and Favourite Listing of App Users.
+
+# How to install
+
+--> Step 1 : First clone the project from https://github.com/swapnil-panchal/RNTest.git 
+
+--> Step 2 : Use Command git clone (Project URL) to clone project into your system.
+
+--> Step 3 : Open terminal with the project path and write : npm install
+
+--> Step 4 : Write in terminal : npm start
+
+--> Step 5 : Open Xcode and just run the project.
+
+Scripts to Run Projects :
+
+ "android": "react-native run-android",
+ "ios": "react-native run-ios",
+ "start": "react-native start"
+
+Library use :
+
+--> TypeScript is a language which extends JavaScript by adding type definitions, much like Flow.
+
+--> @react-native-async-storage/async-storage library used for storing user active status offline.
+
+--> react-native-responsive-screen is used for designing the responsive layout.
+
+--> @react-navigation/bottom-tabs is used for bottom Tab Navigation.
+
+--> react-redux & @reduxjs/toolkit for manage App State Globally.
+
+--> react-native-vector-icons for smooth and great icon in App.
