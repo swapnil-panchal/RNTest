@@ -12,6 +12,8 @@
 
 --> Step 4 : Write in terminal : npm start
 
+--> Step 5 : Change Directory to iOS for installing pods type "pod install".
+
 --> Step 5 : Open Xcode and just run the project.
 
 Scripts to Run Projects :
@@ -20,7 +22,7 @@ Scripts to Run Projects :
  "ios": "react-native run-ios",
  "start": "react-native start"
 
-Library use :
+Library used :
 
 --> TypeScript is a language which extends JavaScript by adding type definitions, much like Flow.
 
